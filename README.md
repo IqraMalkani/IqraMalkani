@@ -1,16 +1,14 @@
-👋 Hi, I'm @IqraMalkani, a Digital Marketer.
+👋 Hi, I'm **@IqraMalkani**,  Aspiring **Business Analyst** passionate about turning data into actionable insights.
 
-🌟 Expertise: Specialized in developing and implementing digital marketing strategies to drive brand awareness and engagement.
+🌟 **Focus:** Transitioning into Business Analytics with hands-on experience in data analysis, reporting, and dashboard development.
 
-💼 Skills: Proficient in Email Marketing, Social Media Marketing, and SEO techniques (On-page and Off-page) to optimize online presence.
+💼 **Technical Skills:** Excel, Power BI, SQL, MySQL, Python
 
-📊 Analytics: Proficient in utilizing tools like Google Analytics to analyze data, measure campaign effectiveness, and make data-driven decisions.
+📊 **Analytics:** Skilled in data cleaning, transforming raw data, building interactive dashboards, tracking KPIs, and supporting data-driven decision-making.
 
-💡 Innovation: Constantly seeking innovative ways to reach target audiences, enhance customer experiences, and improve conversion rates.
+💡 **Projects:** Developing real-world analytics projects focused on business problem-solving, performance tracking, and insight generation.
 
-🎯 Targeted Marketing: Skilled in leveraging audience insights and segmentation to create targeted campaigns that deliver measurable results.
-
-📫 Let's Connect: Reach me at hello@iqramalkani.com to collaborate on digital marketing projects or discuss opportunities.
+🌐 **Website:** www.iqramalkani.com
 
 
 <!---
