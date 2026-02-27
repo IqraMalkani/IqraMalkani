@@ -1,15 +1,14 @@
-👋 Hi, I'm **@IqraMalkani**,  Aspiring **Business Analyst** passionate about turning data into actionable insights.
+👋 Hi, I'm **@IqraMalkani**, a business-focused data professional passionate about turning data into actionable insights.
 
-🌟 **Focus:** Transitioning into Business Analytics with hands-on experience in data analysis, reporting, and dashboard development.
+🌟 **Focus:** Business analytics, performance reporting, KPI tracking, and data-driven decision support.
 
-💼 **Technical Skills:** Excel, Power BI, SQL, MySQL, Python
+💼 **Technical Skills:** Excel, Power BI, SQL, MySQL
 
-📊 **Analytics:** Skilled in data cleaning, transforming raw data, building interactive dashboards, tracking KPIs, and supporting data-driven decision-making.
+📊 **Analytics:** Experienced in data cleaning, transforming raw datasets, building interactive dashboards, conducting trend analysis, and supporting structured decision-making.
 
-💡 **Projects:** Developing real-world analytics projects focused on business problem-solving, performance tracking, and insight generation.
+💡 **Projects:** Real-world analytics projects focused on business problem-solving, performance optimization, and insight generation using SQL and Power BI.
 
 🌐 **Website:** www.iqramalkani.com
-
 
 <!---
 IqraMalkani/IqraMalkani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
